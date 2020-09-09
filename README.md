@@ -1,5 +1,8 @@
 # ANN-MNIST
 
+## Training Accuracy: 98.49%
+## Test Accuracy: 98.16%
+
 ## Confusion Matrix
 <img width=400 alt="confusion-matrix" src="images/cm.png">
 
